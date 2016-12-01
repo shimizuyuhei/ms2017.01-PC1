@@ -1,0 +1,2 @@
+﻿  Source.cpp
+Source.cpp(6): fatal error C1083: include ファイルを開けません。'pxcsensemanager.h':No such file or directory

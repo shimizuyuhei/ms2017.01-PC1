@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\takuto\documents\visual studio 2015\projects\ms2016jt\ms2016jt\source.cpp(33): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1008): note: 'wcstombs' の宣言を確認してください
+  ms2016jt.vcxproj -> C:\Users\takuto\Documents\Visual Studio 2015\Projects\ms2016jt\Debug\ms2016jt.exe
+  ms2016jt.vcxproj -> C:\Users\takuto\Documents\Visual Studio 2015\Projects\ms2016jt\Debug\ms2016jt.pdb (Full PDB)
